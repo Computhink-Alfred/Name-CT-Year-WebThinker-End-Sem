@@ -3,7 +3,7 @@
     "vscode": {
       "extensions": [
         "ms-vsliveshare.vsliveshare",  // Live Share extension
-        "ms-vscode.live-server",  // Live Preview extension
+        "ritwickdey.liveserver",  // Live Server extension
         "vsls-contrib.gitdoc" // GitDoc extension by Jonathan Carter
       ]
     },
