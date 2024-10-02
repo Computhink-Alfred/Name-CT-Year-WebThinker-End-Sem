@@ -1,0 +1,12 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vsliveshare.vsliveshare",  // Live Share extension
+        "ms-vscode.live-server",  // Live Preview extension
+        "vsls-contrib.gitdoc" // GitDoc extension by Jonathan Carter
+      ]
+    },
+    "postCreateCommand": "gitdoc enable" // Run GitDoc: Enable command after creation
+  }
+}
