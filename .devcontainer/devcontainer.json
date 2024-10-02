@@ -2,12 +2,16 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-vsliveshare.vsliveshare",  // Live Share extension
-        "ritwickdey.liveserver",  // Live Server extension
-        "vsls-contrib.gitdoc" // GitDoc extension by Jonathan Carter
-      ]
+        "ms-vsliveshare.vsliveshare",
+        "ritwickdey.liveserver",
+        "vsls-contrib.gitdoc"
+      ],
+      "settings": {
+        "gitdoc.enabled": true,
+        "git.autofetch": true,
+        "gitdoc.autoPullDelay": 5000
+      }
     }
   },
-  "postCreateCommand": "gitdoc enable", // Enable GitDoc after creation
-  "postStartCommand": "cp .vscode/settings.json /home/vscode/.config/Code/User/settings.json" // Force settings after startup
+  "postCreateCommand": "gitdoc enable"
 }
