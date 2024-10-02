@@ -6,7 +6,8 @@
         "ritwickdey.liveserver",  // Live Server extension
         "vsls-contrib.gitdoc" // GitDoc extension by Jonathan Carter
       ]
-    },
-    "postCreateCommand": "gitdoc enable" // Run GitDoc: Enable command after creation
-  }
+    }
+  },
+  "postCreateCommand": "gitdoc enable", // Enable GitDoc after creation
+  "postStartCommand": "cp .vscode/settings.json /home/vscode/.config/Code/User/settings.json" // Force settings after startup
 }
