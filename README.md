@@ -16,10 +16,10 @@
 
 1. Go to your course on the [Student Portal](https://portal.computhink.com.sg/)
 2. Go to Course Menu -> Quizzes -> End Sem (Practical)
-3. Fork this project.
-4. **Rename** this project to "\<Your name> \<CT Level> \<Year> WebThinker Mid Sem". **E.g.: _Alex CT06 2024 WebThinker Mid Sem_**
+3. Use this template to create a new repository
+4. **Name** your repository in the following format: "Name-CT-Year-WebThinker-End-Sem". **E.g.: _Alfred-CT06-WebThinker-End-Sem_**
 5. Start the Quiz and begin coding.
-6. Paste the **URL of your replit project** at the bottom of **each quiz** before submitting
+6. Paste the **URL of your repository** at the bottom of **each quiz** before submitting. **E.g.: _Alfred-CT06-WebThinker-End-Sem_**
 
 **Take note:**
 - Usage of AI (Co-pilot, ChatGPT, Replit AI etc) is **not allowed**
