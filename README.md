@@ -15,7 +15,7 @@
 # Test Instruction
 
 1. Go to your course on the [Student Portal](https://portal.computhink.com.sg/)
-2. Go to Course Menu -> Quizzes -> Mid Sem (Practical)
+2. Go to Course Menu -> Quizzes -> End Sem (Practical)
 3. Fork this project.
 4. **Rename** this project to "\<Your name> \<CT Level> \<Year> WebThinker Mid Sem". **E.g.: _Alex CT06 2024 WebThinker Mid Sem_**
 5. Start the Quiz and begin coding.
