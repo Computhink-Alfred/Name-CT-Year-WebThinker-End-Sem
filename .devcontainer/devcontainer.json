@@ -4,14 +4,13 @@
       "extensions": [
         "ms-vsliveshare.vsliveshare",
         "ritwickdey.liveserver",
-        "vsls-contrib.gitdoc"
+        "vsls-contrib.gitdoc"  // Ensure GitDoc is listed here for automatic installation
       ],
       "settings": {
         "gitdoc.enabled": true,
         "git.autofetch": true,
-        "gitdoc.autoPullDelay": 5000
+        "gitdoc.autoCommitDelay": 5000
       }
     }
   },
-  "postCreateCommand": "gitdoc enable"
 }
