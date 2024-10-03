@@ -19,9 +19,9 @@
 3. Use this template to create a new repository
 4. **Name** your repository in the following format: "Name-CT-Year-WebThinker-End-Sem". **E.g.: _Alfred-CT06-WebThinker-End-Sem_**
 5. Start the Quiz and begin coding.
-6. Paste the **URL of your repository** at the bottom of **each quiz** before submitting. **E.g.: _Alfred-CT06-WebThinker-End-Sem_**
+6. Paste the **URL of your repository** at the bottom of **each quiz** before submitting. **E.g.: _https://github.com/Computhink-Alfred/Name-CT-Year-WebThinker-End-Sem_**
 
 **Take note:**
-- Usage of AI (Co-pilot, ChatGPT, Replit AI etc) is **not allowed**
+- Usage of AI (Co-pilot, ChatGPT etc) is **not allowed**
 - You are **allowed** to refer to your own **notes** (both digital and/or handwritten)
 - Failure to follow instructions may result in marks penalised or a score of 0.
