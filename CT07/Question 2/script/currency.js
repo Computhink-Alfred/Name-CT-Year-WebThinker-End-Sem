@@ -10,7 +10,7 @@ let convert = () => {
         $('#sgd,#sgd~*').addClass('is-invalid text-danger');
     }
     // Check if the input value is less than 0 (currency should not be less than 0), if so, throw an error to the user to correct their mistake.
-    else if (amt < 0) {
+    else if (amt > 0) {
         $('#inputs').append(`<p class="text-danger err-msg">Amount should not be negative (-) or below 0.</p>`);
         $('#sgd,#sgd~*').addClass('is-invalid text-danger');
     }
